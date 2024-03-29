@@ -8,7 +8,7 @@ This Python script organizes files in the user's downloads folder into categoriz
 2. Download or clone this repository.
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the script.
-5. Run the script using the command `python filename.py`.
+5. Run the script using the command `python PyFileMover.py`.
 
 ## Description
 
